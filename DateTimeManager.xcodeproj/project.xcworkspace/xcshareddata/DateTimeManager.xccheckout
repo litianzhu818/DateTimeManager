@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C0E1E019-B630-4A57-930B-8595D1FA31EB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DateTimeManager</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E2C544DDFDB2D949710068163EA4C72D1D2A7098</key>
+		<string>github.com:litianzhu818/DateTimeManager.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DateTimeManager.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E2C544DDFDB2D949710068163EA4C72D1D2A7098</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:litianzhu818/DateTimeManager.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E2C544DDFDB2D949710068163EA4C72D1D2A7098</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E2C544DDFDB2D949710068163EA4C72D1D2A7098</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DateTimeManager</string>
+		</dict>
+	</array>
+</dict>
+</plist>
